@@ -1,3 +1,3 @@
 # Bankist
 
-Bankist website having functionalities such as login timer, transferring amount, receiving amount, calculation interest, displaying amounts & sorting amounts using different JavaScript array methods.
+Bankist website having features such as sticky navigation, scrolling to sections, revealing sections on scroll, slider component & tabbed components using JavaScript.
